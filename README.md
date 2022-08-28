@@ -3,7 +3,7 @@
 ### <div align="center">I'm  Justin Mercado, a iOS Software Developer Looking for Entry Level Opportunities👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on a [BMI Calculator](https://github.com/jrbmercado/BMI-Calculator).  
+- 🔭 I’m currently working on [Tipsy](https://github.com/jrbmercado/Tipsy), a bill/tip splitting calculator.  
   
 
 - 🌱 I’m currently learning Swift Programming.  
@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to Java Programming and Personal Finance.  
   
 
-- ⚡ Fun fact: I still include parenthesis on "if" statements even if they are not required to increase readability.   
+- ⚡ Fun fact: I still include parenthesis on "if" conditional statements even if they are not required.   
   
 
 <br/>  
