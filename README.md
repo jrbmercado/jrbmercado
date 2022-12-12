@@ -1,6 +1,6 @@
 ![Logo](https://media-exp1.licdn.com/dms/image/D5616AQHoqWX77yGZTg/profile-displaybackgroundimage-shrink_350_1400/0/1669058950169?e=1674691200&v=beta&t=0aGAOT-mifc1SdhNqzpqmnVrZM6538533KQyae9cuCk)
 
-### <div align="center">I'm  Justin Mercado, a iOS Software Developer Looking for Entry Level Opportunities👨‍💻 </div>  
+### <div align="center">I'm  Justin Mercado, a Software Engineer Looking for Entry Level Opportunities👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Tipsy](https://github.com/jrbmercado/Tipsy), a bill/tip splitting calculator.  
