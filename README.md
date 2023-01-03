@@ -1,4 +1,4 @@
-![Logo](https://media-exp1.licdn.com/dms/image/D5616AQHoqWX77yGZTg/profile-displaybackgroundimage-shrink_350_1400/0/1669058950169?e=1674691200&v=beta&t=0aGAOT-mifc1SdhNqzpqmnVrZM6538533KQyae9cuCk)
+![Logo](https://media.licdn.com/dms/image/D5616AQGEFNioXSQpyQ/profile-displaybackgroundimage-shrink_350_1400/0/1672390098929?e=1678320000&v=beta&t=leBLl4SJRw8GJTF7LfYdjPPM2z_yw3SnurpuwmTKl-M)
 
 ### <div align="center">I'm  Justin Mercado, a Software Engineer Looking for Entry Level Opportunities👨‍💻 </div>  
   
