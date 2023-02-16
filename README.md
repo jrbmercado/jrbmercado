@@ -1,6 +1,4 @@
-![Logo](https://media.licdn.com/dms/image/D5616AQGEFNioXSQpyQ/profile-displaybackgroundimage-shrink_350_1400/0/1672390098929?e=1678320000&v=beta&t=leBLl4SJRw8GJTF7LfYdjPPM2z_yw3SnurpuwmTKl-M)
-
-### <div align="center">I'm  Justin Mercado, a Software Engineer Looking for Entry Level Opportunities👨‍💻 </div>  
+### <div align="center">I'm  Justin Mercado, a QA Engineer learning something new everyday! 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Task Master](http://jrbmercado.pythonanywhere.com/login), a fullstack web application to help keep track of tasks with a user login system.  
